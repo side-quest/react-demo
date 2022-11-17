@@ -9,7 +9,7 @@
     "react": "^15.6.2",
     "react-dom": "^15.6.2",
     "react-router": "^1.0.3",
-    "react-scripts": "1.0.10",
+    "react-scripts": "5.0.1",
     "request": "^2.88.0",
     "serve": "^10.1.1"
   },
